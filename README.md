@@ -6,6 +6,7 @@ It allows users to customise a veggie burger and then place a fictional order.
 
 Technologies used: 
 - React (Create React App)
+- Axios
 - Google Firebase
 - Redux
 
