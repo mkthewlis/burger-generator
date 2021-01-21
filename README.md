@@ -8,6 +8,7 @@ Technologies used:
 - React (Create React App)
 - Axios
 - Google Firebase
+- React Router DOM
 - Redux
 
 This project was bootstrapped with Create React App.
