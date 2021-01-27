@@ -9,4 +9,5 @@ Technologies used:
 - Axios
 - Google Firebase
 - React Router DOM
-- Redux & React Redux
+- Redux & React Redux,
+- Redux Thunk
