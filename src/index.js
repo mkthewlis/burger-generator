@@ -10,7 +10,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import burgerBuilderReducer from './store/reducers/burgerBuilder';
 
-const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION__ || compose;
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
 const store = createStore(burgerBuilderReducer, composeEnhancers(
     applyMiddleware(thunk)
